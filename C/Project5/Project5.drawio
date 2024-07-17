@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-08-15T16:16:27.839Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YrdA7veYXVWN4NMS0PBl" version="21.6.8" type="device">
+  <diagram name="Page-1" id="LKkhuCPTVkQqO0gp-NfC">
+    <mxGraphModel dx="1113" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J8JiJ5vjeMp6-n0v4bLm-1" target="5gaczCeEpjP1CUPyqfyK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J8JiJ5vjeMp6-n0v4bLm-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="381" y="50" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gaczCeEpjP1CUPyqfyK-1" target="5gaczCeEpjP1CUPyqfyK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-1" value="Input&lt;br&gt;Pendulum Length" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="130" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gaczCeEpjP1CUPyqfyK-3" target="5gaczCeEpjP1CUPyqfyK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-3" value="Input&lt;br&gt;Acceleration due to Gravity" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="250" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gaczCeEpjP1CUPyqfyK-5" target="5gaczCeEpjP1CUPyqfyK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-5" value="Calculate&lt;br&gt;Time Period" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="370" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gaczCeEpjP1CUPyqfyK-7" target="5gaczCeEpjP1CUPyqfyK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-7" value="Display&lt;br&gt;Result" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gaczCeEpjP1CUPyqfyK-9" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="610" width="66" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

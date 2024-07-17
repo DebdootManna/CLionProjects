@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-08-20T08:17:11.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tdfTB24WpFoYfUADELvU" version="21.6.8" type="device">
+  <diagram name="Page-1" id="cHiNFhwmvbbLB-0O-PKC">
+    <mxGraphModel dx="1883" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-1" target="cTxm2_LnTTLqaVda9WIn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="50" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-2" target="cTxm2_LnTTLqaVda9WIn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-2" value="Declare&lt;br&gt;num1, num2, temp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-3" target="cTxm2_LnTTLqaVda9WIn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-3" value="Input&lt;br&gt;num1 from user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-4" target="cTxm2_LnTTLqaVda9WIn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-4" value="Input&lt;br&gt;num2 from user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="360" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-5" target="cTxm2_LnTTLqaVda9WIn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-5" value="Display&lt;br&gt;&quot;Before Swapping&quot;&lt;br&gt;along with original values of num1 and num2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="470" width="294" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-6" target="cTxm2_LnTTLqaVda9WIn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-6" value="Swap using third variable&lt;br&gt;temp = num1&lt;br&gt;num1 = num2&lt;br&gt;num2 = temp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="584.5" width="290" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-7" target="cTxm2_LnTTLqaVda9WIn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-7" value="Display&lt;br&gt;&quot;After Swapping with a Third Variable&quot;&lt;br&gt;along with original values of num1 and num2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="710" width="294" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-8" target="cTxm2_LnTTLqaVda9WIn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-8" value="Swap without third variable&lt;br&gt;num1 = num1 + num2&lt;br&gt;num2 = num1 - num2&lt;br&gt;num1 = num1 - num2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="830" width="290" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cTxm2_LnTTLqaVda9WIn-9" target="cTxm2_LnTTLqaVda9WIn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-9" value="Display&lt;br&gt;&quot;After Swapping without a Third Variable&quot;&lt;br&gt;along with original values of num1 and num2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="960" width="294" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTxm2_LnTTLqaVda9WIn-10" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="1080" width="74" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

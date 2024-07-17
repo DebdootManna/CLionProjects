@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-12-03T14:54:33.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="aLotWsoPPm5828gz2W4O" version="22.1.5" type="device">
+  <diagram name="Page-1" id="vQP9hLYBUp4dAKwmtIgp">
+    <mxGraphModel dx="844" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-233" target="AIXgzcjw58ZIXvBcZ5kv-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-233" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-234" target="AIXgzcjw58ZIXvBcZ5kv-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-234" value="Define&lt;br&gt;BookDetail Structure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-235" target="AIXgzcjw58ZIXvBcZ5kv-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-235" value="Declare&lt;br&gt;displayBookDetails Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-236" target="AIXgzcjw58ZIXvBcZ5kv-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-236" value="Implement main Function&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Declare myBook&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Initialise myBook values&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Call displayBookDetails&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="380" width="191" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-237" target="AIXgzcjw58ZIXvBcZ5kv-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-237" value="Display Book Details&lt;br&gt;&lt;ul&gt;&lt;li&gt;Print Title&lt;br&gt;&lt;/li&gt;&lt;li&gt;Print Author&lt;br&gt;&lt;/li&gt;&lt;li&gt;Print Amount&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="570" width="176" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-242" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="750" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

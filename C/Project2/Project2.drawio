@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-08-15T10:58:36.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="77mqD_BaOzB6Lg1dMzIA" version="21.6.8" type="device">
+  <diagram name="Page-1" id="zGrFJE3vpJwbmLuNuc5t">
+    <mxGraphModel dx="636" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fcO0oI-jCFiZxliaB4vG-1" target="fcO0oI-jCFiZxliaB4vG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="60" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fcO0oI-jCFiZxliaB4vG-2" target="fcO0oI-jCFiZxliaB4vG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-2" value="Display&lt;br&gt;Title and Author&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fcO0oI-jCFiZxliaB4vG-4" target="fcO0oI-jCFiZxliaB4vG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-4" value="Display&lt;br&gt;Blank Line&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fcO0oI-jCFiZxliaB4vG-7" target="fcO0oI-jCFiZxliaB4vG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-7" value="Display&lt;br&gt;Smiley Face&lt;br&gt;followed by the character with ASCII value 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fcO0oI-jCFiZxliaB4vG-9" target="fcO0oI-jCFiZxliaB4vG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-9" value="Display&lt;br&gt;Diamond &amp;amp; Heart&lt;br&gt;followed by the character with ASCII value 4 and 3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="585" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fcO0oI-jCFiZxliaB4vG-13" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="710" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

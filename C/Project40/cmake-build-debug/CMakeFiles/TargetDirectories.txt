@@ -1,0 +1,3 @@
+/Users/debdootmanna/CLionProjects/Project40/cmake-build-debug/CMakeFiles/Project40.dir
+/Users/debdootmanna/CLionProjects/Project40/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/debdootmanna/CLionProjects/Project40/cmake-build-debug/CMakeFiles/rebuild_cache.dir

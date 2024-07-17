@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" modified="2023-12-03T14:02:22.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="crClaWIIy97xWACdjde0" version="22.1.5" type="device">
+  <diagram name="Page-1" id="vQP9hLYBUp4dAKwmtIgp">
+    <mxGraphModel dx="1224" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-175" target="AIXgzcjw58ZIXvBcZ5kv-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-175" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417.94" y="20" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-176" target="AIXgzcjw58ZIXvBcZ5kv-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-176" value="Input&lt;br&gt;str1 and str2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="387.94" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-178" target="AIXgzcjw58ZIXvBcZ5kv-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-178" value="Display Menu&lt;br&gt;&lt;br&gt;&lt;p style=&quot;text-align: left; margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;i. Length of a string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;ii.&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt; &lt;/span&gt;Reverse string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;iii.&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt; &lt;/span&gt;Compare two strings&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;iv.&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt; &lt;/span&gt;Copy one string into another string&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;v.&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt; &lt;/span&gt;Concatenate two strings&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;vi. Exit&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322.94" y="180" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-179" target="AIXgzcjw58ZIXvBcZ5kv-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-179" target="AIXgzcjw58ZIXvBcZ5kv-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-179" target="AIXgzcjw58ZIXvBcZ5kv-190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413.94" y="540" />
+              <mxPoint x="253.94" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-179" target="AIXgzcjw58ZIXvBcZ5kv-192">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433.94" y="570" />
+              <mxPoint x="403.94" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-179" target="AIXgzcjw58ZIXvBcZ5kv-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447.94" y="570" />
+              <mxPoint x="553.94" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-179" target="AIXgzcjw58ZIXvBcZ5kv-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="463.94" y="540" />
+              <mxPoint x="703.94" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-179" value="Switch" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="387.94" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-188" target="AIXgzcjw58ZIXvBcZ5kv-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="103.94" y="830" />
+              <mxPoint x="417.94" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-188" value="Case i&lt;br&gt;Length of str1&lt;br&gt;Length of str2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43.94" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-190" target="AIXgzcjw58ZIXvBcZ5kv-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253.94" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-190" value="Case ii&lt;br&gt;Reverse of str1&lt;br&gt;Reverse of str2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193.94" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-192" value="Case iii&lt;br&gt;Compare str1 and str2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343.94" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-193" target="AIXgzcjw58ZIXvBcZ5kv-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-193" value="Case vi&lt;br&gt;Exit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="673.94" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-194" target="AIXgzcjw58ZIXvBcZ5kv-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.94" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="447.94" y="880" />
+              <mxPoint x="33.94" y="880" />
+              <mxPoint x="33.94" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-194" value="Display&lt;br&gt;Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="387.94" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-196" target="AIXgzcjw58ZIXvBcZ5kv-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-196" value="Case iv&lt;br&gt;Copy str1 to str2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493.94" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-197" value="Case v&lt;br&gt;Concatenate str1 to str2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="643.94" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-192" target="AIXgzcjw58ZIXvBcZ5kv-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.948;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-197" target="AIXgzcjw58ZIXvBcZ5kv-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="703.94" y="785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AIXgzcjw58ZIXvBcZ5kv-212" target="AIXgzcjw58ZIXvBcZ5kv-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-212" value="Read choice from user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="364.94" y="350" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIXgzcjw58ZIXvBcZ5kv-216" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="703.94" y="310" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

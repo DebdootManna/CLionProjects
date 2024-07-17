@@ -1,0 +1,3 @@
+/Users/debdootmanna/CLionProjects/Project27/cmake-build-debug/CMakeFiles/Project27.dir
+/Users/debdootmanna/CLionProjects/Project27/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/debdootmanna/CLionProjects/Project27/cmake-build-debug/CMakeFiles/rebuild_cache.dir

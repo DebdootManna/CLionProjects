@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2023-08-20T08:50:21.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZYgJIb5Jik7MNc4XW3vx" version="21.6.8" type="device">
+  <diagram name="Page-1" id="y1YB_mS1U00hA7DTi7aH">
+    <mxGraphModel dx="1166" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DX2eaxMMcVma0OAR6vJr-1" target="DX2eaxMMcVma0OAR6vJr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="50" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DX2eaxMMcVma0OAR6vJr-2" target="DX2eaxMMcVma0OAR6vJr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-2" value="Display&lt;br&gt;&quot;Enter a decimal number:&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DX2eaxMMcVma0OAR6vJr-3" target="DX2eaxMMcVma0OAR6vJr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-3" value="Read&lt;br&gt;decimalNumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DX2eaxMMcVma0OAR6vJr-4" target="DX2eaxMMcVma0OAR6vJr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-4" value="Display&lt;br&gt;&quot;Decimal: &quot;&lt;br&gt;Print decimalNumber" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="370" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DX2eaxMMcVma0OAR6vJr-5" target="DX2eaxMMcVma0OAR6vJr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-5" value="Display&lt;br&gt;&quot;Octal: &quot;&lt;br&gt;Print octal representation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="490" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DX2eaxMMcVma0OAR6vJr-6" target="DX2eaxMMcVma0OAR6vJr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-6" value="Display&lt;br&gt;&quot;Hexadecimal: &quot;&lt;br&gt;Print hexadecimal representation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="610" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DX2eaxMMcVma0OAR6vJr-12" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="710" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

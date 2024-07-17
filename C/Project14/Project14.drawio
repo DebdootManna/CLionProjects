@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-10-03T16:12:55.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Gh8tCaZ5dphaXbPLX-Dy" version="22.0.1" type="device">
+  <diagram name="Page-1" id="b1feF3FSTfekxyTbRze7">
+    <mxGraphModel dx="942" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jiKucUAbc5v38bXVSfDP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-1" target="jiKucUAbc5v38bXVSfDP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="70" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-2" target="jiKucUAbc5v38bXVSfDP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-2" value="Input&lt;br&gt;a, b, c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-3" target="jiKucUAbc5v38bXVSfDP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-3" value="Calculate&lt;br&gt;Discriminant&lt;br&gt;b^2-4ac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-4" target="jiKucUAbc5v38bXVSfDP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-4" target="jiKucUAbc5v38bXVSfDP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-4" target="jiKucUAbc5v38bXVSfDP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-4" value="Switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="390" width="64" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-5" target="jiKucUAbc5v38bXVSfDP-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-5" value="Case&lt;br&gt;(discriminant &amp;gt; 0):&lt;br&gt;Calculate Roots&lt;br&gt;Output Roots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-6" target="jiKucUAbc5v38bXVSfDP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-6" value="Case&lt;br&gt;(discriminant &amp;lt; 0):&lt;br&gt;Calculate Imaginary Part&lt;br&gt;Output Roots with Imaginary Part" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="450" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jiKucUAbc5v38bXVSfDP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-7" value="Case&lt;br&gt;(discriminant = 0):&lt;br&gt;Calculate Equal Roots&lt;br&gt;Output Equal Roots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiKucUAbc5v38bXVSfDP-14" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="554.5" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
